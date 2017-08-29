@@ -6,3 +6,4 @@
  * Time: 14:32
  */
 echo "新增了个文件index00.php";
+echo "新增输出002";
